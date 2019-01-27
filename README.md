@@ -4,6 +4,8 @@
 
 ## Project: Recommendations with IBM
 
+## [Blog Version](https://medium.com/@sanjeevai/recommendations-with-ibm-7f89d25375fc)
+
 ## Table of Contents
 
 - [Project Introduction](#intro)
