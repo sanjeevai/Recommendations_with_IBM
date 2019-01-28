@@ -126,12 +126,28 @@ def plot_f1_test(test_f1, num_latent_feats):
         title = "F1 Score vs # of Features <br> for Test Data",
         xaxis = {
             "title": "# of Features",
-            "automargin": True
+            "automargin": True,
+            "tick0": 0,
+            "dtick": 50
         },
         yaxis = {
             "title": "F1 Score",
             "automargin": True
-        }
+        },
+        # vertical line at x=100
+        shapes = [
+            {
+                "type": "line",
+                "x0": 150,
+                "y0": 0,
+                "x1": 150,
+                "y1": 0.08598726,
+                "line": {
+                    "color": "rgb(50, 171, 96)",
+                    "width": 2
+                }
+            }
+        ]
     )
 
     fig = go.Figure(data = data, layout = layout)
