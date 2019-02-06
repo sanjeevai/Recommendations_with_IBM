@@ -38,8 +38,7 @@ In order to determine which articles to show to each user, I will be performing 
 
 <img src="./img/user-item-int.png" alt="user-item-int" width="100%">
 
-Most of the users have 3 interaction with any article and this highly skewed
-data is because interaction is less.
+Most of the users have maximum 3 interactions with any article on the platform and this distribution is highly **skewed** because interactions are less.
 
 <a id="rank"></a>
 
