@@ -107,4 +107,4 @@ future iteractions to tackle the **cold start problem**.
 
 ## Software and Libraries
 
-This is project uses Python 3.6.6 and the necessary libraries are mentioned in [requirements file]("https://github.com/sanjeevai/Recommendations_with_IBM/blob/master/requirements.txt").
+This is project uses Python 3.6.6 and the necessary libraries are mentioned in [requirements file](https://github.com/sanjeevai/Recommendations_with_IBM/blob/master/requirements.txt).
