@@ -108,5 +108,3 @@ future iteractions to tackle the **cold start problem**.
 ## Software and Libraries
 
 This is project uses Python 3.6.6 and the necessary libraries are mentioned in _requirements.txt_.
-
-2 directories, 14 files
